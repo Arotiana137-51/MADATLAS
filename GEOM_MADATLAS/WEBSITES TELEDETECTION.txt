@@ -1,0 +1,31 @@
+Websites TELEDETECTION
+
+earthexplorer.usgs.gov
+peps.cnes.fr
+scihub.copernicus.eu
+eos.com/landviewer
+
+Telecharger des données images  pour Fianarantsia
+
+Images Landsat
+https://earthexplorer.usgs.gov
+Données Topographiques
+earthexplorer.usgs.gov
+
+Images Sentinel-2
+peps.cnes.fr
+scihub.copernicus.eu
+
+
+
+Donn/ees vectorielles
+ Limitesadministratives
+data.humdata.org/dataset/madagascar-administrative-level-0-4-boundaries
+
+Données diverses
+https://download.geofabrik.de/africa/madagascar-latest-free.shp.zip
+
+Voir telephone ocr....
+
+DONNÉES MADAGASCAR 
+gadm.org
